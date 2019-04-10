@@ -39,7 +39,7 @@ scene.add(ambLight);
     //  Math.random() *
 
     if (x==-5 && y==-5){
-      boxMaterial = new THREE.MeshLambertMaterial({map: texture1});//color: "#ee30a7"
+      boxMaterial = new THREE.MeshLambertMaterial({map:1.jpg});//color: "#ee30a7"
     }else if(x==5 && y==5){
       boxMaterial = new THREE.MeshLambertMaterial({color: "#cdcd00"});
     } else{
