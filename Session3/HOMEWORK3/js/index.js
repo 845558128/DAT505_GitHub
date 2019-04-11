@@ -42,7 +42,7 @@ function geometry(){
 
   // MATERIAL 1:
   var material = new THREE.MeshBasicMaterial( {  wireframe:true, color: "#000000" } );
-//#498155
+
 
 //the first sphere
   var texture = new THREE.TextureLoader().load('texture/a.jpg');
