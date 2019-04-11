@@ -49,9 +49,6 @@ heartShape.bezierCurveTo( x + 7, y, x + 5, y + 5, x + 5, y + 5 );
 mesh1 = new THREE.Mesh( geometry1, material ) ;
 scene.add( mesh1 );
 
-//geometry = new THREE.RingBufferGeometry( 10, 50, 320 );
-//material = new THREE.MeshBasicMaterial( { color: 0xffff00, side: THREE.DoubleSide } );
- //mesh = new THREE.Mesh( geometry, material );
  mesh1.position.z = -400;
 
  var x = 0, y = -50;
@@ -71,12 +68,9 @@ material2 = new THREE.MeshBasicMaterial( { color: 0xFF0000 } );
 mesh2 = new THREE.Mesh( geometry2, material2 ) ;
 scene.add( mesh2 );
 
-//geometry = new THREE.RingBufferGeometry( 10, 50, 320 );
-//material = new THREE.MeshBasicMaterial( { color: 0xffff00, side: THREE.DoubleSide } );
-//mesh = new THREE.Mesh( geometry, material );
+;
 mesh2.position.z = -600;
-  // Add mesh to scene
-  //scene.add( mesh );
+
 
   geometry3= new THREE.ConeBufferGeometry( 80, 320, 32 );
   material3 = new THREE.MeshBasicMaterial( { wireframe:true,
@@ -111,4 +105,4 @@ geometry();
 render();
 ```
 
-If everything went well you should see [this]https://github.com/845558128/DAT505_GitHub/blob/master/images/images/微信图片_20190411232635.png
+ ![image]https://github.com/845558128/DAT505_GitHub/blob/master/images/images/微信图片_20190411232635.png
