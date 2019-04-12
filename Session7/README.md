@@ -59,3 +59,5 @@ group.push( mesh );
           }
 
 ```
+![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/7.png)
+![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/7a.png)

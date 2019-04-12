@@ -105,4 +105,4 @@ geometry();
 render();
 ```
 
- ![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/images/1.png)
+ ![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/1.png)

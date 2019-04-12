@@ -32,4 +32,4 @@ mesh3.position.z = -1000;
 mesh3.position.x = -200;
 mesh3.position.y = 100;
 ```
-![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/images/2.png)
+![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/2.png)

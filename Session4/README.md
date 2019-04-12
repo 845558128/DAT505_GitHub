@@ -17,3 +17,4 @@ for (var x = -35; x < 40; x += 5) { // Start from -35 and sequentially add one e
     mesh.position.z = y;
     mesh.rotation.x = 360*Math.random();
 ```
+![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/4.png)

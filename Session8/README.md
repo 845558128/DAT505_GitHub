@@ -125,3 +125,6 @@ window.addEventListener( "mousemove", onDocumentMouseMove, false );
 }
 
 ```
+![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/8.png)
+![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/8a.png)
+![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/8b.png)

@@ -22,3 +22,4 @@ function setupWorld() {
 
 
 ```
+![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/6.png)
