@@ -104,5 +104,7 @@ init();
 geometry();
 render();
 ```
+### Preview ###
+If everything right ,you will see
 
  ![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/1.png)

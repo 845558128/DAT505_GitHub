@@ -41,4 +41,7 @@ var material21 = new THREE.MeshBasicMaterial( {  wireframe:true, color: "#228B22
 var material22 = new THREE.MeshBasicMaterial( {  color: "#FFFF00" } );
 
 ```
+
+### Preview ###
+If everything right ,you will see
 ![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/3.png)

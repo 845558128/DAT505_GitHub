@@ -59,5 +59,8 @@ group.push( mesh );
           }
 
 ```
+
+### Preview ###
+If everything right ,you will see
 ![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/7.png)
 ![image](https://github.com/845558128/DAT505_GitHub/blob/master/images/7a.png)
