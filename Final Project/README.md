@@ -105,11 +105,14 @@ function clouds() {
 ```
 ###  Add attachment ###
 
-IMAGE: wuyun.png
+IMAGE:   wuyun.png
 
-Background sound effect:thunder.wav
+Background sound effect:  thunder.wav
 
 
 ###  Consult ###
 
 https://threejs.org/examples/?q=terr#webgl_terrain_dynamic
+
+### GitHub LINK ####
+https://github.com/845558128/DAT505_GitHub
