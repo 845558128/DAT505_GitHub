@@ -1,6 +1,6 @@
 Murky clouds obscured the sun.
 ========
-#### Name：YIWEN SHEN ####
+#### Name：SHEN YIWEN ####
 
 
 ### Source of Ideas ###
@@ -116,3 +116,7 @@ https://threejs.org/examples/?q=terr#webgl_terrain_dynamic
 
 ### GitHub LINK ####
 https://github.com/845558128/DAT505_GitHub
+
+
+[image](https://github.com/845558128/DAT505_GitHub/blob/master/images/day.png)
+[image](https://github.com/845558128/DAT505_GitHub/blob/master/images/night.png)

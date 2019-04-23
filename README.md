@@ -1,3 +1,4 @@
 # DAT505_GitHub
 
-#### Name：YIWEN SHEN ####
+#### Name：SHEN YIWEN ####
+#### Student number：B161006080 ####
