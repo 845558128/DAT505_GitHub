@@ -1,15 +1,15 @@
 Murky clouds obscured the sun.
 ========
+#### Name：YIWEN SHEN ####
 
 
-
-#### Source of Ideas ####
+### Source of Ideas ###
 
 The idea came from a rainy evening, the smell of grass permeating the campus, the dark clouds in the sky hazy, this feeling I think should be recorded. So I created this scene, the ground is grass, the ground will not stop floating. The clouds in the sky are accompanied by thunder, and the sky can be dimmed slowly by pressing buttons.
 
 
 
-### Usage ###
+### Usage ####
 
 This code uses a number of plug-ins to control the mouse, keyboard and some special effects.
 
@@ -22,6 +22,8 @@ This code uses a number of plug-ins to control the mouse, keyboard and some spec
 <script src="js/WebGL.js"></script>
 <script src="js/index.js"></script>
 ```
+
+### Code structure ####
 
 The code first imports a moving lawn scene and a camera, uses the keyboard's "m" to control his float up and down, and adds annotations to the bottom of the screen. Then the whole background color was changed to match the rain scene. In order to create the misty feeling of rain, a layer of fog was added to the scene. A map of a dark cloud was then imported and placed over the scene, forming a group of them.
 
@@ -101,7 +103,11 @@ function clouds() {
 
 
 ```
+###  Add attachment ###
 
+IMAGE: wuyun.png
+
+Background sound effect:thunder.wav
 
 
 ###  Consult ###
