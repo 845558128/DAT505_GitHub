@@ -1,7 +1,7 @@
 Murky clouds obscured the sun.
 ========
 #### Name：SHEN YIWEN ####
-
+#### Student Number：B161006080 ####
 
 ### Source of Ideas ###
 
@@ -11,7 +11,7 @@ The idea came from a rainy evening, the smell of grass permeating the campus, th
 
 ### Usage ####
 
-This code uses a number of plug-ins to control the mouse, keyboard and some special effects.
+This code uses a number of JS documents to control the mouse, keyboard and some special effects.
 
 ```html
 <script src="js/three.min.js"></script>
@@ -117,6 +117,6 @@ https://threejs.org/examples/?q=terr#webgl_terrain_dynamic
 ### GitHub LINK ####
 https://github.com/845558128/DAT505_GitHub
 
-
+### Preview ####
 [image](https://github.com/845558128/DAT505_GitHub/blob/master/images/day.png)
 [image](https://github.com/845558128/DAT505_GitHub/blob/master/images/night.png)
